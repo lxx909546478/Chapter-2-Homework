@@ -1,15 +1,10 @@
 # Chapter2
 Android基础UI开发
+## 我的工作
+- 对app工程进行了build.gradle的修改
+- 写了homework工程，完成了三个作业题
 
-* app:课堂代码
-* homework:课后作业
-* homework-debug.apk 是课后作业的示例，可以使用
-adb install -t homework-debug.apk 进行安装
+**值得说明的是，由于本地SDK对应的API版本超过了28.0。0，实际为29.0.3，因此参考官方意见，迁移到了androidx**
 
-## UI的标注资源 请参考这里：
-
-https://app.zeplin.io/project/5c402caf0c6b0938570c4953/screen/5c402eaf5838d5bff1178c68
-
-* 账号：397717749@qq.com
-* 密码：123456
+## 截图
 
