@@ -14,11 +14,11 @@ Android基础UI开发
 
 未旋转时：
 
-![pic1](./ScreenShot/pic1.jpg)
+![pic1](./ScreenShot/pic1.JPG)
 
 旋转后：
 
-![pic2](./ScreenShot/pic2.jpg)
+![pic2](./ScreenShot/pic2.JPG)
 
 
 
@@ -26,11 +26,11 @@ Android基础UI开发
 
 界面如下图：
 
-![pic3](./ScreenShot/pic3.jpg)
+![pic3](./ScreenShot/pic3.JPG)
 
 为证明图中真的有9个view（将viewGroup也统计在内），看下图：
 
-![pic4](./ScreenShot/pic4.jpg)
+![pic4](./ScreenShot/pic4.JPG)
 
 
 
@@ -38,8 +38,8 @@ Android基础UI开发
 
 主界面如下图：
 
-![pic5](./ScreenShot/pic5.jpg)
+![pic5](./ScreenShot/pic5.JPG)
 
 点击后：
 
-![pic6](./ScreenShot/pic6.jpg)
+![pic6](./ScreenShot/pic6.JPG)
