@@ -12,6 +12,7 @@ public class Message {
     private String description;//描述
     private String icon;//icon
 
+
     public String getTitle() {
         return title;
     }

@@ -24,12 +24,16 @@
             android:layout_height="48dp"
 
             android:scaleType="centerCrop"
-            android:src="@drawable/icon_girl" />
+            android:src="@drawable/icon_girl"
+            />
 
         <ImageView
             android:id="@+id/robot_notice"
+            android:layout_width="20dp"
+            android:layout_height="10dp"
             style="@style/IMVerifyBdage"
-            tools:visibility="visible" />
+            tools:visibility="invisible" />
+
     </FrameLayout>
 
 

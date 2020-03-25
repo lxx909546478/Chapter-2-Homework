@@ -2,10 +2,9 @@ package chapter.android.aweme.ss.com.chapter2.recycleview;
 
 import android.content.Context;
 import android.graphics.Color;
-import android.support.v4.content.ContextCompat;
+import androidx.core.content.ContextCompat;
 
 import chapter.android.aweme.ss.com.chapter2.R;
-
 
 public class ColorUtils {
 

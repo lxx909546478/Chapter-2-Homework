@@ -2,7 +2,8 @@ package chapter.android.aweme.ss.com.chapter2;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+//import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
 import chapter.android.aweme.ss.com.chapter2.R;

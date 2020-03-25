@@ -1,8 +1,11 @@
 package chapter.android.aweme.ss.com.chapter2.view;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
+//import android.support.annotation.Nullable;
+//import android.support.v7.app.AppCompatActivity;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
+
 
 import chapter.android.aweme.ss.com.chapter2.R;
 
